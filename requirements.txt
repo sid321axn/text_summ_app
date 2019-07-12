@@ -14,11 +14,11 @@ click==6.7
 click-plugins==1.0.4
 cligj==0.5.0
 clint==0.5.1
-conda==4.5.11
 cryptography==2.2.2
 cycler==0.10.0
 descartes==1.1.0
 docutils==0.14
+distribute==0.6.28
 eli5==0.8
 enum34==1.1.6
 Fiona==1.8.3
@@ -88,6 +88,7 @@ Shapely==1.6.4.post2
 singledispatch==3.4.0.3
 six==1.11.0
 SQLAlchemy==1.2.15
+setuptools==1.0
 tabulate==0.8.2
 torch==0.4.1
 tornado==5.1.1
