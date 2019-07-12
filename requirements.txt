@@ -24,8 +24,6 @@ Fiona==1.8.3
 Flask==1.1.1
 floyd-cli==0.11.17
 future==0.17.1
-GDAL==2.1.4
-geopandas==0.4.0
 google-api-core==1.7.0
 google-auth==1.6.2
 google-cloud-bigquery==1.8.1
