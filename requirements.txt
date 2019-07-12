@@ -44,7 +44,6 @@ lxml==4.3.4
 MarkupSafe==1.0
 marshmallow==2.18.0
 matplotlib==3.0.2
-menuinst==1.4.14
 mkl-fft==1.0.10
 mkl-random==1.0.2
 munch==2.3.2
