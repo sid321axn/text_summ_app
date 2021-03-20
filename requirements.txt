@@ -36,7 +36,7 @@ gunicorn==19.9.0
 h5py==2.8.0
 idna==2.6
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.3
 joblib==0.12.5
 kiwisolver==1.0.1
