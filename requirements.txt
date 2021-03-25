@@ -67,7 +67,7 @@ PySAL==1.14.4.post2
 PySocks==1.6.8
 python-dateutil==2.7.5
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 raven==6.10.0
 requests==2.18.4
 requests-toolbelt==0.9.1
