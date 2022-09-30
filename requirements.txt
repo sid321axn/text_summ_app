@@ -38,7 +38,7 @@ idna==2.6
 itsdangerous==1.1.0
 Jinja2==2.10.1
 jmespath==0.9.3
-joblib==0.12.5
+joblib==1.2.0
 kiwisolver==1.0.1
 lxml==4.3.4
 MarkupSafe==1.0
