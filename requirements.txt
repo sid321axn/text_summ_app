@@ -81,7 +81,7 @@ Shapely==1.6.4.post2
 singledispatch==3.4.0.3
 six==1.11.0
 SQLAlchemy==1.2.15
-setuptools==1.0
+setuptools==65.5.1
 tabulate==0.8.2
 torch==0.4.1
 tornado==5.1.1
